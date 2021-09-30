@@ -1,7 +1,7 @@
 /*
 Nama      : Ahmad Bustanul Aziz
 Tanggal   : 30 September 2021
-Deskripsi : Program LED Berkedip
+Deskripsi : Sketch LED Berkedip Arduino
  */
 
 //Inisialisasi pin yang mengontrol LED (Disini pakai pin 7)
