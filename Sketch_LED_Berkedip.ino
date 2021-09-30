@@ -13,7 +13,7 @@ void setup() {
 }
 
 void loop() {
-  //LED menyela
+  //LED menyala
   digitalWrite(pinLED, HIGH);
   //Delay 500 ms
   delay(500);
